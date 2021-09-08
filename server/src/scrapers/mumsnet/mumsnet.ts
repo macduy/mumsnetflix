@@ -5,7 +5,7 @@
 
 const axios = require('axios').default;
 import { parse, HTMLElement } from 'node-html-parser'
-import { Dialogue } from "../../api";
+import { Dialogue } from "../../../../shared/types";
 
 const TEST_URL = "http://www.mumsnet.com/Talk/mumsnet_classics/4094310-what-drama-have-you-witnessed-at-a-wedding"
 

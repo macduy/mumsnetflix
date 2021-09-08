@@ -20,4 +20,5 @@
 
       "outDir": "./tsBuild"
     },
+    "references": [{ "path": "../shared" }]
   }
